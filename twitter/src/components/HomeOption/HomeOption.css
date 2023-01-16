@@ -1,0 +1,36 @@
+img{
+    height:50px;
+    width:30%;
+}
+.optionContainer
+{
+    padding-left: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    position: sticky;
+    top: 0;
+}
+.optionContainer a
+{
+    display: block;
+    margin: 12px 0;
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    
+}
+#exploreoption
+{
+    font-weight: bold;
+}
+.tweet-btn
+{
+    width: 120px;
+    padding: 4px;
+    background-color: cornflowerblue;
+    margin-top: 25px;
+    color:white;
+    border-radius: 25px;
+    border:1px solid cornflowerblue;
+}

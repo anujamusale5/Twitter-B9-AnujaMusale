@@ -1,0 +1,61 @@
+.serachBox
+{
+    background-color:rgb(239,243,244);
+    border-radius:45px ;
+    margin: 24px;
+    padding: 6px;
+    padding-left: 12px;
+    margin-top: 2px;
+    width: 85%;
+}
+.serachBox input{
+    background-color: transparent;
+    border: none;
+    height: 26px;
+    padding-left: 12px;
+}
+.searchHeader
+{
+    display: flex;
+    align-items: center;
+}
+.svg-class
+{
+    margin-bottom:20px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding-left: 0 !important;
+}
+ul a{
+    color:rgb(83,100,113);
+}
+.banner
+{
+    height:320px;
+    border:1px solid lightblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://static.toiimg.com/photo/msid-95096810/95096810.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.banner_small
+{
+    color: white;
+    font-size: smaller;
+}
+.banner_large
+{
+    color:white;
+   font-size: 30px;
+}
+.sticky
+{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}

@@ -1,0 +1,15 @@
+
+.header-small
+{
+    font-size: small;
+}
+
+
+.text
+{
+    font-size: medium;
+    font-weight: bold;
+}
+p{
+    margin-bottom: 6px !important;
+}

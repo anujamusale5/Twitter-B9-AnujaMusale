@@ -1,0 +1,24 @@
+[
+    {
+        "header":"Trending in India",
+        "text":"Oreo",
+        "Tweetcount":"30k tweets"
+    },
+    
+    {
+        "header":"Trending in Sports",
+        "text":"cricket",
+        "Tweetcount":"50k tweets"
+    },
+    
+    {
+        "header":"Trending in buisness",
+        "text":"Elon Musk",
+        "Tweetcount":"20k tweets"
+    },
+    {
+        "header":"Trending in India",
+        "text":"YouTuber",
+        "Tweetcount":"60k tweets"
+    }
+]
